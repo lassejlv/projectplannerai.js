@@ -1,0 +1,19 @@
+{
+  "name": "projectplannerai",
+  "description": "An simple api wrapper for the projectplannerai.com's api",
+  "version": "0.1.1",
+  "module": "src/index.ts",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benjamint08/probun"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "projectplannerai": "^0.1.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
