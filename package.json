@@ -6,7 +6,7 @@
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/benjamint08/probun"
+    "url": "https://github.com/lassejlv/projectplannerai.js"
   },
   "type": "module",
   "devDependencies": {

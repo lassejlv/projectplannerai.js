@@ -1,5 +1,6 @@
 # Ignore all files except README.md, package.json, and lib/ folder
 *
 !README.md
+!License
 !package.json
 !lib/**
